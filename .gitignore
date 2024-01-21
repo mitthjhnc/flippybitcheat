@@ -5,4 +5,8 @@
 *.js
 *.html
 *.docx
+.vscode
+build
+vcpkg
+Webscraping
 !Flippybit.py
