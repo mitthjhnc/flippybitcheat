@@ -1,8 +1,8 @@
-.py
-.txt
-.log
-.exe
-.js
-.html
-.docx
+*.py
+*.txt
+*.log
+*.exe
+*.js
+*.html
+*.docx
 !Flippybit.py
